@@ -2,7 +2,6 @@
 
 import { useState } from "react";
 import { SITE } from "@/content/site";
-import HeroScene from "./HeroScene";
 import Divider from "./dividers";
 
 function ArrowIcon() {
